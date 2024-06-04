@@ -1,6 +1,6 @@
-# challenge1
+# Challenge 1
 
-A new Flutter project.
+This Flutter project showcases a basic social media homepage user interface.
 
 ## Getting Started
 
